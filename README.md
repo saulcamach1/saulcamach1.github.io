@@ -1,8 +1,5 @@
 
-<html>
-<head>
-    <title>Sorpresa Romántica</title>
-    <style>
+
         body {
             margin: 0;
             height: 100vh;
